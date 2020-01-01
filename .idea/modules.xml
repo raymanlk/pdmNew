@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PDM.iml" filepath="$PROJECT_DIR$/PDM.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/appL/appL.iml" filepath="$PROJECT_DIR$/appL/appL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pdmNew.iml" filepath="$PROJECT_DIR$/pdmNew.iml" />
     </modules>
   </component>
 </project>
